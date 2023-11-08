@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matching Game</title>
+    <!--Stylesheet-->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Memory Cards</h1>
+    <h3>High Score: <span class="high=score"></span></h3>
+    <div class="play">
+        <button class="playBtn" onClick="document.getElementById('game').scrollIntoView();">Play!</button>
+    </div>
+    <div id="game" class="grid-container"></div>
+    <p>Score: <span class="score"></span></p>
+    <div class="actions">
+        <button onclick="restart()">Restart</button>
+    </div>
+    <!--Script-->
+    <script src="app.js"></script>
+</body>
+</html>

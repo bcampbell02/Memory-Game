@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/HeartEyesEmoji.png",
+        "name": "Heart Eyes"
+    },
+    {
+        "image": "../assets/MoneyFaceEmoji.png",
+        "name": "Money Face"
+    },
+    {
+        "image": "../assets/SmilingFaceEmoji.png",
+        "name": "Smiling Face"
+    },
+    {
+        "image": "../assets/SmirkFaceEmoji.png",
+        "name": "Smirk Face"
+    },
+    {
+        "image": "../assets/SunglassesFaceEmoji.png",
+        "name": "Sunglasses"
+    },
+    {
+        "image": "../assets/TearsofJoyEmoji.png",
+        "name": "Crying Laughing"
+    },
+    {
+        "image": "../assets/TongueOutEmojiwithWinkingEye.png",
+        "name": "Tongue Out"
+    },
+    {
+        "image": "../assets/VeryAngryEmoji.png",
+        "name": "Angry Face"
+    },
+    {
+        "image": "../assets/WinkEmoji.png",
+        "name": "Wink"
+    }
+]
